@@ -1,0 +1,7 @@
+path: ../data/Anime
+train: images
+val: images 
+
+# Classes
+nc: 2  # number of classes
+names: [ 'background', 'Anime_face' ]  # class names
