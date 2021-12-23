@@ -4,7 +4,7 @@
 * pytorch
 * if error just install it xd
 ## YoloV5 & dataset
-first git clone the yoloV5 and download the dataset.
+first git clone the yoloV5(https://github.com/ultralytics/yolov5) and download the dataset.
 ```console
 $ git clone https://github.com/ultralytics/yolov5.git
 ```
