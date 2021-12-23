@@ -2,7 +2,7 @@
 ## Install Dependencies
 * python >= 3.8
 * pytorch
-* if error just install it xd
+* if occur the package error, just install it xd (absolute not I forget what I installed.
 ## YoloV5 & dataset
 first git clone the yoloV5(https://github.com/ultralytics/yolov5) and download the dataset.
 ```console
