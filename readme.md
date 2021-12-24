@@ -49,7 +49,7 @@ $ python main.py --mode 0 --in_path testcases --outpath result_example --weight 
 $ python main.py --mode 1 --v_path video.mp4 --weight weight_50eps/best.pt
 ```
 ## Web crawler: Images
-it will download the images for two page from the web: https://safebooru.org/
+it will download the images for two pages from the web: https://safebooru.org/
 ```console
 $ python collectData.py
 ```
