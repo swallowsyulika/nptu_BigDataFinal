@@ -8,7 +8,7 @@ first git clone the yoloV5(https://github.com/ultralytics/yolov5) and download t
 ```console
 $ git clone https://github.com/ultralytics/yolov5.git
 ```
-dataset doown load: https://github.com/qhgz2013/anime-face-detector
+dataset download: https://github.com/qhgz2013/anime-face-detector
 
 # Data preprocessing and Training
 ## Data fromat
