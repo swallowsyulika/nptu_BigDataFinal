@@ -11,7 +11,7 @@ $ git clone https://github.com/ultralytics/yolov5.git
 dataset download: https://github.com/qhgz2013/anime-face-detector
 
 # Data preprocessing and Training
-## Data fromat
+## Data format
 the dataset contain the foldaer "Annotations" and "JPEGImages". Using the script:
 ```console
 $ python data_processing/resize_make_label.py
