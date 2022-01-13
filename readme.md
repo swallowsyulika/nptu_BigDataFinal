@@ -36,7 +36,7 @@ train yolov5 with pretrain model.
 $ cd yolov5
 $ python train.py --img 480 --batch 32 --epochs 50 --data dataset.yaml --weights yolov5x.pt --workers 12
 ```
-I provide the weight of 50 epochs in the folder "weight_50eps", the link to download: coming soon.
+I provide the weight of 50 epochs in the folder "weight_50eps", the link to download: [here](https://drive.google.com/file/d/1FFaGvI5CffyWcN9M7UDcYZjXt0uxjiYH/view?usp=sharing).
 
 # Run example
 ## Run image and video
